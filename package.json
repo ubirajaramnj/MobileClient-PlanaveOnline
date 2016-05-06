@@ -1,0 +1,22 @@
+{
+  "name": "icim.planave.universalclient",
+  "version": "1.0.0",
+  "description": "Universal App (Mobile and Web Browser) para criação de Planos de Navegação (Planave)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ubirajara Mendes",
+  "license": "ISC",
+  "dependencies": {
+    "angular-material": "^1.0.8",
+    "bower": "^1.7.9",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
