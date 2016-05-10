@@ -18,8 +18,8 @@
         initController();
 
         function initController() {
-            vm.partida = new Date();
-            vm.retorno = new Date();
+            vm.dataPartida = new Date();
+            vm.dataRetorno = "";
             vm.minDate = new Date();
         };
 

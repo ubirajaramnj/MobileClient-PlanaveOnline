@@ -18,5 +18,13 @@
   },
   "devDependencies": {
     "grunt": "^1.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubirajaramnj/MobileClient-PlanaveOnline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ubirajaramnj/MobileClient-PlanaveOnline/issues"
+  },
+  "homepage": "https://github.com/ubirajaramnj/MobileClient-PlanaveOnline#readme"
 }
